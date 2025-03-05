@@ -28,6 +28,6 @@
     "REDIS_PASSWORD": ""
   },
   "schema": {
-    "REDIS_PASSWORD": "hide",
+    "REDIS_PASSWORD": "str",
   }
 }
