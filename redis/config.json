@@ -25,11 +25,9 @@
     "6379/tcp": "Web interface"
   },
   "options": {
-    "data_path": "/share/redis",
-    "homeassistant": true
+    "REDIS_PASSWORD": ""
   },
   "schema": {
-    "data_path": "str",
-    "homeassistant": "bool"
+    "REDIS_PASSWORD": "hide",
   }
 }
