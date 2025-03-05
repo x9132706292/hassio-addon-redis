@@ -4,7 +4,7 @@
   "slug": "redis",
   "description": "redis for ytplayer in Hass.io",
   "uart": true,
-  "url": "https://github.com/miumida/redis",
+  "url": "https://github.com/x9132706292/hassio-addon-redis",
   "host_network":true,
   "before": "before",
   "arch": [
