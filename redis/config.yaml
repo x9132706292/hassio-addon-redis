@@ -1,5 +1,5 @@
 ---
-name: redis
+name: Redis
 version: 1.0.1
 slug: redis
 description: redis-server
