@@ -23,4 +23,4 @@ ports_description:
 options:
   REDIS_PASSWORD: ""
 schema:
-  REDIS_PASSWORD: str
+  REDIS_PASSWORD: password
