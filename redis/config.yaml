@@ -1,7 +1,7 @@
 ---
 name: Redis
 version: 1.0.1
-slug: redis-server
+slug: redis
 description: Redis-server
 uart: true
 url: https://github.com/x9132706292/hassio-addon-redis
